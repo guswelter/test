@@ -5,3 +5,7 @@ permalink: /people
 ---
 
 Hola Mundo
+
+## People
+
+Someone new...
