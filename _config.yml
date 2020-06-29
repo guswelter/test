@@ -1,4 +1,4 @@
 url:  # should be empty
 baseurl:  # should be empty
-remote_theme: alshedivat/al-folio
+remote_theme: jekyll/minima
 title: Floyd Farnsworth's Fine Felts
