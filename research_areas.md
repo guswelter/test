@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research Areas"
-permalink: /research_areas/
+permalink: /research_areas
 ---
 
 Hola Mundo
