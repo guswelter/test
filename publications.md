@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publicaions"
-permalink: /publications/
+permalink: /publications
 ---
 
 Hola Mundo
