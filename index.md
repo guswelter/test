@@ -4,4 +4,4 @@ title: "Auton Lab"
 permalink: /
 ---
 
-# Welcome to ![Auton Lab](auton_logo.png "Auton Lab")
+![Auton Lab](auton_logo.png "Auton Lab")
