@@ -1,5 +1,12 @@
 url:  # should be empty
 baseurl:  # should be empty
-remote_theme: jekyll-theme-dinky #jekyll/minima
+remote_theme: jekyll-theme-leap-day #jekyll-theme-dinky #jekyll/minima
 title: Auton Lab
-
+header_pages:
+  - about.md
+  - research_areas.md
+  - broader_impact.md
+  - publications.md
+  - resources.md
+  - people.md
+  - careers.md
