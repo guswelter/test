@@ -1,6 +1,6 @@
 url:  # should be empty
 baseurl:  # should be empty
-remote_theme: jekyll/minima
+remote_theme: jekyll-theme-dinky #jekyll/minima
 title: Auton Lab
 header_pages:
   - about.md
